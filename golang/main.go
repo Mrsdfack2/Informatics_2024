@@ -9,4 +9,5 @@ import(
 func main() {
 	fmt.Println("Глазов Егор Максимович")
 	lab4.RunLab4()
+	lab6.Runlab6()
 }
